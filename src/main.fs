@@ -1,4 +1,5 @@
-﻿
+﻿module Main
+
 open Fable.Core
 open Fable.Core.Extensions
 open Fable.Import

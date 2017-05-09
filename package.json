@@ -12,8 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "babel-runtime": "^6.23.0",
     "fable-core": "^1.0.0-narumi-905",
-    "babel-runtime": "^6.23.0"
+    "monaco": "^1.201704190613.0",
+    "virtual-dom": "^2.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
